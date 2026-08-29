@@ -3,7 +3,7 @@ id: 01M16JPCJ4459629TM593WEC9K
 title: "Gala67: The Smarter Way to Keep Your Small-Business Blog Growing"
 publishAfterDate: 2026-08-31
 language: en
-description: "See how Gala67 turns a simple Markdown workflow into an SEO-ready business blog—so you can publish consistently and get back to serving customers."
+description: "See how Gala67 turns a simple Markdown workflow into an SEO-ready business blog-so you can publish consistently and get back to serving customers."
 tags:
   - small-business
   - blogging
@@ -15,7 +15,7 @@ coverImage: media/gala67-small-business-blogging-hero.png
 
 ![A small-business owner making pottery while an organized digital publishing workflow runs beside her](media/gala67-small-business-blogging-hero.png "More time for the work only you can do")
 
-# Your blog should work for your business—not become another job
+# Your blog should work for your business-not become another job
 
 You know the feeling: the shop is finally quiet, the last customer email is answered, and *now* you are supposed to become a content strategist.
 
@@ -25,11 +25,11 @@ For a small-business owner, the problem is rarely a lack of expertise. You answe
 
 The problem is turning that knowledge into a consistent, professional blog without surrendering your evenings to it.
 
-That is why [Gala67](https://gala67.com/)—or simply Gala—is so compelling. Gala gives your writing a calm, durable publishing home: Markdown files in your own repository, published as a fast static site with the technical SEO foundations handled for you. Pair that workflow with an AI writing assistant for research and first drafts, and blogging stops feeling like a second business.
+That is why [Gala67](https://gala67.com/)-or simply Gala-is so compelling. Gala gives your writing a calm, durable publishing home: Markdown files in your own repository, published as a fast static site with the technical SEO foundations handled for you. Pair that workflow with an AI writing assistant for research and first drafts, and blogging stops feeling like a second business.
 
 It becomes a repeatable part of the business you already run.
 
-## What Gala actually does—and why the distinction matters
+## What Gala actually does-and why the distinction matters
 
 Let’s be precise: **Gala is the publishing system, not the AI that writes your article.**
 
@@ -57,7 +57,7 @@ Gala’s managed site template handles much of that technical groundwork. A publ
 - language-aware URLs and alternate-language metadata;
 - a custom domain when you want the publication to live under your own brand.
 
-Those details do not guarantee a first-page ranking—no honest platform can promise that. They remove common technical gaps and give every useful article a sound starting point. Google explains that structured data can help it understand a page and present richer search features, but it also explicitly says those appearances are not guaranteed. That is the right expectation: solid infrastructure creates eligibility; valuable content earns attention.
+Those details do not guarantee a first-page ranking-no honest platform can promise that. They remove common technical gaps and give every useful article a sound starting point. Google explains that structured data can help it understand a page and present richer search features, but it also explicitly says those appearances are not guaranteed. That is the right expectation: solid infrastructure creates eligibility; valuable content earns attention.
 
 For a business owner, this is liberating. Instead of remembering which tag belongs where, you can spend that attention on the question your customer typed into search.
 
