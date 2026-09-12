@@ -1,0 +1,13 @@
+# rathnastest
+
+> Articles published by rathnastest.
+
+This experimental discovery file lists clean Markdown alternatives and canonical HTML pages.
+It is not an access grant or a license. See robots.txt and the linked RSL file when present.
+
+## Articles
+
+- [Example post](https://rathnastest.github.io/field-notes1/en/example/index.md): Published 2026-08-10 in en. [HTML](https://rathnastest.github.io/field-notes1/en/example/) [Provenance](https://rathnastest.github.io/field-notes1/en/example/provenance/)
+- [Gala67: The Smarter Way to Keep Your Small-Business Blog Growing](https://rathnastest.github.io/field-notes1/en/your-first-post/index.md): See how Gala67 turns a simple Markdown workflow into an SEO-ready business blog-so you can publish consistently and get back to serving customers. [HTML](https://rathnastest.github.io/field-notes1/en/your-first-post/) [Provenance](https://rathnastest.github.io/field-notes1/en/your-first-post/provenance/)
+
+Sitemap: https://rathnastest.github.io/field-notes1/sitemap.xml
